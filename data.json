@@ -1,0 +1,56 @@
+{
+  "projects":[
+    
+    {"id": 0, 
+      "project_name":"Nipsey Hussle Random Quote Generator", 
+      "technologies":[
+        "javascript", 
+        "HTML", 
+        "CSS"], 
+      "live_link":"", 
+      "github_link":"https://github.com/SparkedTech/Nipsey-Hussle-Random-Quotes", 
+      "image_urls": ["/images/project1_sc.png", "/images/project1_sc2.png", "/images/project1_sc3.png"]},
+
+      {"id": 1, 
+      "project_name":"List Pagination & Filtering Project", 
+      "technologies":[
+        "javascript", 
+        "HTML", 
+        "CSS"], 
+      "live_link":"Doe", 
+      "github_link":"https://github.com/SparkedTech/Project-2-", 
+      "image_urls": ["/images/project2_sc.png", "/images/project2_sc2.png", "/images/project2_sc3.png"]},
+    
+      {"id": 2, 
+      "project_name":"Interactive Form & Validation", 
+      "technologies":[
+        "javascript", 
+        "HTML", 
+        "CSS",
+        "jQuery"], 
+      "live_link":"Doe", 
+      "github_link":"https://github.com/SparkedTech/project_3", 
+      "image_urls": ["/images/project3_sc.png", "/images/project3_sc2.png", "/images/project3_sc3.png"]},
+    {"id": 3, 
+      "project_name":"Game Show App", 
+      "technologies":[
+        "javascript", 
+        "HTML", 
+        "CSS",
+        "OOP"], 
+      "live_link":"Doe", 
+      "github_link":"https://github.com/SparkedTech/Game-Show-App", 
+      "image_urls": ["/images/project4_sc.png", "/images/project4_sc2.png", "/images/project4_sc3.png"]},
+    {"id": 4, 
+      "project_name":"API Request", 
+      "technologies":[
+        "javascript", 
+        "HTML", 
+        "CSS",
+        "Ajax"], 
+      "live_link":"", 
+      "github_link":"https://github.com/SparkedTech/Project-5-Public-API-Requests", 
+      "image_urls": ["/images/project5_sc.png", "/images/project5_sc2.png", "/images/project5_sc3.png"]}
+    ]
+  }
+
